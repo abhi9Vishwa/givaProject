@@ -28,7 +28,7 @@ In this project, I had to create a basic  React app that has a registration page
 ```
   npm run start
 ```
-After these two commands have been run, backend server will start listening on port 5000 and react frontend will start listening to pport 3000. You can then go to http://localhost:3000/ on browser to see the app running.
+After these two commands have been run, backend server will start listening on port 5000 and react frontend will start listening to pport 3000. You can then go to http://localhost:3000/regis on browser to see the app running. 
 
 
 ## Scope for Improvement 
